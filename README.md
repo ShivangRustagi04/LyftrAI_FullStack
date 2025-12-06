@@ -30,7 +30,7 @@ A production-ready static-first universal scraper with Playwright JS fallback. B
 ---
 
 ## 📁 Project Structure 
-
+```bash
 .
 ├── run.sh
 ├── requirements.txt
@@ -48,7 +48,7 @@ A production-ready static-first universal scraper with Playwright JS fallback. B
         └── client.js
 
 ---
-
+```
 ## ⚙️ Setup & Running
 
 ### 1. Clone repository
